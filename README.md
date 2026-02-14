@@ -12,6 +12,9 @@ My approach focuses on breaking down complex technical concepts into controlled,
 
 The goal is not just to perform tasks — but to understand, validate, and explain them.
 
+I leverage AI-assisted workflows to enhance documentation quality, generate structured explanations, refine technical clarity, and streamline visual asset creation — while maintaining full hands-on implementation and validation of every environment.
+
+
 ---
 
 ## Core Focus Areas
@@ -42,7 +45,9 @@ The goal is not just to perform tasks — but to understand, validate, and expla
 - VMware Workstation Pro  
 - OpenSSH  
 - Bash  
-- Git & GitHub  
+- Git & GitHub
+- AI-assisted documentation & visualization tools
+ 
 
 ---
 
@@ -86,10 +91,12 @@ Actively developing skills for roles in:
 
 ## Connect
 
-Discord: @metagonz  
-Medium: @gonzwald
+- Medium: https://medium.com/@gonzwald  
+- Discord: @metagonz  
+- Email: 258895263+gonzwald@users.noreply.github.com  
 
 
 ---
 
+Building secure systems. Documenting the process. Mastering the fundamentals.
 
