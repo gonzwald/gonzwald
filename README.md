@@ -91,8 +91,7 @@ Actively developing skills for roles in:
 
 ## Connect
 
-- Medium: https://medium.com/@gonzwald  
-- Discord: @metagonz  
+- Medium: https://medium.com/@gonzwald    
 - Email: 258895263+gonzwald@users.noreply.github.com  
 
 
